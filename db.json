@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "name": "Birmal Tamrakar",
+      "email": "Birmaltamrakar@gmail.com",
+      "phone": "98674646464",
+      "password": "Birmdd@1",
+      "remember": true,
+      "id": 3
+    },
+    {
+      "name": "Suraj Singh",
+      "email": "surajsubin5@gmail.com",
+      "phone": "9804696825",
+      "password": "Suraj@#12",
+      "remember": true,
+      "id": 4
+    },
+    {
+      "name": "Gayatri Singh ",
+      "email": "gayatrisingh@gmail.com",
+      "phone": "9804696825",
+      "password": "Gayatri@#12",
+      "remember": true,
+      "id": 5
+    }
+  ]
+}

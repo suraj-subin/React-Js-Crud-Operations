@@ -1,0 +1,26 @@
+.Addbtn {
+  float: left;
+  margin-bottom: 6px;
+}
+.LogOutbtn{
+  float: right;
+  margin-bottom: 6px;
+}
+.form-control:focus {
+  box-shadow: none !important;
+  outline: none;
+}
+.main {
+  position: relative;
+}
+.BTN {
+  position: absolute;
+  top: 0;
+  right:4px;
+  border: none;
+  outline: none;
+  margin-top:20px;
+  background-color: transparent;
+  color: #1976d2;
+  cursor: pointer;
+}
